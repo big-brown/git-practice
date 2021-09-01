@@ -1,2 +1,4 @@
 This is file #1
-Adding text for rebase conflict.
+preparing for rebase conflict.
+
+Clear rebase conflict.
