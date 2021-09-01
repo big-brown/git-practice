@@ -1,1 +1,3 @@
 this is file #2 on a branch.
+Added text from branch1.
+Added text from branch2.
