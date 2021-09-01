@@ -1,0 +1,2 @@
+This is file #1 on branch.
+Added text from branch2.
