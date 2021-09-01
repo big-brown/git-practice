@@ -1,0 +1,2 @@
+Text for file #1 in sample-work.
+Added text after popping stash.
